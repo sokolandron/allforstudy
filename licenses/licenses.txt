@@ -6,5 +6,3 @@ Visual Studio 2013:		XDM3T-W3T3V-MGJWK-8BFVD-GVPKY
 
 from folder licenses/
 
-
-
