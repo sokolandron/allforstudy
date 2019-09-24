@@ -1,3 +1,5 @@
+For internal use only
+
 Visual Studio 2012:		4D974-9QX42-9Y43G-YJ7JG-JDYBP
 
 Visual Studio 2013:		XDM3T-W3T3V-MGJWK-8BFVD-GVPKY
